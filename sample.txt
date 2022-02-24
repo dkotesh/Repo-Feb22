@@ -1,4 +1,1 @@
-this is first sample line
-this is another line added
-This is another second line
-This is revert line added
+This is first line
